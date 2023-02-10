@@ -12,9 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="Template_Pagination.xlsx">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
     <None Update="Template_Pagination_RepeatType.xlsx">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
