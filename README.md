@@ -1,0 +1,2 @@
+# DioDocsExcelTemplatePagenationRepeatType
+DioDocsでヘッダーとフッターを設定したExcel帳票を作成する
